@@ -70,6 +70,9 @@ def n_mult1(n):
     else:
         print '负数不存在阶乘'
 
+def print_hello(str):
+    print("hello "+str)
+    
 
 a = 1
 
